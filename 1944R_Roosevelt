@@ -41,7 +41,7 @@ e = campaignTrail_temp
 
 function rooseveltwinsending() {
     return `<h3>ROOSEVELT WINS FOURTH TERM; NEW DEAL COALITION ENDURES</h3>
-    <p>Despite concerns about your health and the unprecedented nature of a fourth term, the American people have chosen continuity in wartime. Your victory preserves the New Deal coalition and gives you the opportunity to guide the nation through the final stages of the war and the transition to peace.</p>
+    <p>Despite concerns about your health and the unprecedented nature of a fourth term, the American people have chosen continuity in wartime. Your victory preserves the New Deal coalition and gives you the opportunity to guide the nation through the final stages of the war and the transition to peace.</p>-
     <p>The challenges ahead will be immense. You must manage the end of the conflict, rebuild the world economy, and determine the future of American society after the war. Your presidency has already changed the country forever, but history will judge how you handle these final years. Good luck, Mr. President.</p>`;
 }
 
