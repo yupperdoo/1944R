@@ -46,7 +46,7 @@ campaignTrail_temp.candidate_dropout_json = JSON.parse("[{\"model\": \"campaign_
 
 campaignTrail_temp.temp_election_list = [{"id": 20, "year": 1944, "is_premium": 0, "display_year": "1944"}];
 
-campaignTrail_temp.credits = 'u/yupperdoo97. Playtesters include Astro, Answerisme, and GelidLagopus. Banner and theme by Gelid Lagopus. Some pictures done by Answerisme. Music box code done by Thatchmaster. Additional coding help from Tex and BigTobyLarone';
+campaignTrail_temp.credits = 'Yupperdoo. Coding, graphics, and copyediting done by Capitolbill. Research and sources provided by DrPurpleFetusYeeter. Banner and theme by GelidLagopus. Original music code done by Thatchmaster. Original pictures done by Answerisme. Additional coding help by Tex. Special thanks to Astro, Answerisme, and GelidLagopus for playtesting';
 
 nct_stuff.themes[nct_stuff.selectedTheme].text_col = "black"
 
