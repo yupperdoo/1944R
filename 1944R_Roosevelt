@@ -181,7 +181,7 @@ campaignTrail_temp.running_mate_json = JSON.parse("[{\"model\": \"campaign_trail
 }
 if(ans == 2028){
 campaignTrail_temp.running_mate_last_name = 'Douglas';
-campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/efnTZEU.jpeg';
+campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/D11xjZ9.jpeg';
 window.setTimeout(e.vpSwitcher, 20)
 campaignTrail_temp.running_mate_json = JSON.parse("[{\"model\": \"campaign_trail.running_mate\", \"pk\": 1, \"fields\": {\"candidate\": 201, \"running_mate\": 1004}}]");
 }
