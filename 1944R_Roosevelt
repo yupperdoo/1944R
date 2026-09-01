@@ -502,7 +502,7 @@ div.overlay_window h3 {
     border-style: solid;
     border-color: inherit;
     border-width: 3px;
-    height: 48em;
+    height: 48em !important;
     text-align: center;
     position: relative;
 }
