@@ -211,7 +211,7 @@ const song6 = new Song(
 const song7 = new Song(
         "Jeepers Creepers",
         "Al Donahue and Paula Kelly",
-        "https://imgur.com/nfQyYIg.png",
+        "https://imgur.com/brCSzsV.png",
         "https://audio.jukehost.co.uk/2Y9gds99pTuvqA6OfuXDeMoMejkh8b6C"
     );
 
