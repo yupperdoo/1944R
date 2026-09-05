@@ -13,7 +13,7 @@ e.done = true;
 
             $(".container")[0].style.backgroundColor = "#7382b4";
 
-            document.getElementById("header").src = "https://i.imgur.com/C43vutO.jpeg";
+            document.getElementById("header").src = "https://i.imgur.com/7DjDJH6.jpeg";
 
             document.body.background = "https://i.imgur.com/AhxYcPX.jpeg";
 
